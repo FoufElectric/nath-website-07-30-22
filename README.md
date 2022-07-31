@@ -1,2 +1,2 @@
-# nath-website-07-30-22
+# Nath-website
 Created with CodeSandbox
